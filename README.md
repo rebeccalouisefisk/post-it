@@ -15,20 +15,20 @@ and the design and final outcome!
 
 <h1>Get started (install and view the application)</h1>
 
-# 1. Clone the repository.
+1. Clone the repository.
 git clone https://github.com/rebeccalouisefisk/post-it.git
 
-# 2. Install and start the front-end 
+2. Install and start the front-end 
 cd post-it/final-project/front-end/src
 (You might need to run npm audit fix)
 npm install
 npm run build
 npm run serve
 
-# 3. Install and start the back-end
+3. Install and start the back-end
 Start new terminal 
 cd post-it/final-project/back-end
 npm install express
 node app.js
 
-# 4. The application should be running on local: http://localhost:8080/
+4. The application should be running on local: http://localhost:8080/
